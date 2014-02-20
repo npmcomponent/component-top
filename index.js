@@ -3,10 +3,10 @@
  * Module dependencies.
  */
 
-var debounce = require('debounce')
+var debounce = require('matthewmueller-debounce')
   , html = require('./template')
-  , domify = require('domify')
-  , event = require('event')
+  , domify = require('component-domify')
+  , event = require('component-event')
 
 /**
  * Expose `top`.

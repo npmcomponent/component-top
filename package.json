@@ -1,0 +1,19 @@
+{
+  "name": "component-top",
+  "description": "Transient back-to-top on scroll link",
+  "version": "0.0.2",
+  "keywords": [
+    "top",
+    "back",
+    "scroll"
+  ],
+  "styles": [
+    "top.css"
+  ],
+  "dependencies": {
+    "matthewmueller-debounce": "git://github.com/npmcomponent/matthewmueller-debounce.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git"
+  },
+  "license": "MIT"
+}
